@@ -1,0 +1,8 @@
+export const SET_ITEMS = 'SET_ITEMS';
+export const SET_TOTAL = 'SET_TOTAL';
+export const SET_SELECTED_ITEM = 'SET_SELECTED_ITEM';
+export const SET_LAST_QUERY = 'SET_LAST_QUERY';
+export const SET_PAGE = 'SET_PAGE';
+export const SET_FAVORITES = 'SET_FAVORITES';
+export const ADD_TO_FAVORITES = 'ADD_TO_FAVORITES';
+export const REMOVE_FROM_FAVORITES = 'REMOVE_FROM_FAVORITES';
